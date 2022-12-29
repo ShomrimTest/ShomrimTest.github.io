@@ -1,9 +1,6 @@
-p {
+body {
     color: #333;
     font-size: 14px;
+    background-color: #D1C4E9;
     font-family: verdana, 'Open Sans', sans-serif;
-}
-
-body {
-    background-color: #D1C4E9;  
 }
