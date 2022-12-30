@@ -11,9 +11,6 @@ function isValid(username, file){
 form.addEventListener('submit', (event) => {
   // handle the form data
 	var username = form.elements["username"]
-	if isValid(username, file) {
-		
-	}
 	
 	console.log(username)
 });
