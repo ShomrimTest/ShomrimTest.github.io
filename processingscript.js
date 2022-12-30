@@ -1,4 +1,4 @@
-document.forms[0]
+form = document.forms[0]
 
 var file // load file with usernames & encrypted passwords
 
