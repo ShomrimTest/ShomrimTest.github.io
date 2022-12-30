@@ -11,7 +11,7 @@ function isValid(username, file){
 
 form.addEventListener('submit', function(event) {
   // handle the form data
-	event.preventDefault()
+	//event.preventDefault()
 	var username = form.elements["username"]
 	
 	console.log(username)
