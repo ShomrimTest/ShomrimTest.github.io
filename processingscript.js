@@ -12,5 +12,5 @@ form.addEventListener('submit', (event) => {
   // handle the form data
 	var username = form.elements["username"]
 	
-	console.log(username)
+	//console.log(username)
 });
