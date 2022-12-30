@@ -1,6 +1,14 @@
+<style>
 body {
     color: #333;
     font-size: 14px;
     background-color: #dddddd;
     font-family: verdana, 'Open Sans', sans-serif;
 }
+#navigation {
+    position: absolute;
+    left: 0;
+    width: 15em;
+}
+
+</style>
