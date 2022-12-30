@@ -10,17 +10,5 @@ body {
     left: 0;
     width: 15em;
 }
-<body>
-<div id="navigation">
-<ul>
-  <li>Navigation</li>
-  <li><a href="index.html">Home</a></li>
-  <li><a href="shomrim.html">Calendar</a></li>
-  <li><a href="forum.html">Forum</a></li>
-  <li><a href="resources.html">Resources for Shomrim</a></li>
-  <li><a href="faq.html">FAQs</a></li>
-  <li><a href="contact.html">Contact</a></li>
-  <li><a href="join.html">Join</a></li>
-  </ul>
-</div>
+
 </style>
