@@ -8,9 +8,9 @@ function isValid(username, file){
 	return False
 }
 
-form.addEventListener('submit', (event) => {
-  // handle the form data
-	var username = form.elements["username"]
+//form.addEventListener('submit', (event) => {
+//  // handle the form data
+//	var username = form.elements["username"]
 	
 	//console.log(username)
-});
+//});
